@@ -20,14 +20,21 @@
 
 ## 学习记录
 ### 2025年
+<li><a href="https://book.douban.com/subject/25809330/">《Linux&Unix系统编程手册》</a></li>
+<li><a href="https://github.com/Xianhuii/apollo-java">Apollo配置中心的Java客户端源码</a></li>
+<li><a href="https://aosabook.org/en/v2/distsys.html">The Architecture of Open Source Applications (Volume 2)Scalable Web Architecture and Distributed Systems</a></li>
+<li><a href="https://github.com/Xianhuii/system-design-primer/blob/master/README-zh-Hans.md">system-design-primer</a></li>
+<li><a href="https://book.mixu.net/distsys/single-page.html">《Distributed systems for fun and profit》</a></li>
+<li><a href="https://book.douban.com/subject/27154352/">《设计数据密集型应用》</a></li>
+<li><a href="https://github.com/Xianhuii/skywalking-java">Apache SkyWalking的Java Agent源码</a></li>
 
-<details>
+### 往年
 <summary>2025年</summary>
-<li><a href="https://book.douban.com/subject/25809330/" target="_blank">《Linux&Unix系统编程手册》</a></li>
-<li><a href="https://github.com/Xianhuii/apollo-java" target="_blank">Apollo配置中心的Java客户端源码</a></li>
-<li><a href="https://aosabook.org/en/v2/distsys.html" target="_blank">The Architecture of Open Source Applications (Volume 2)Scalable Web Architecture and Distributed Systems</a></li>
-<li><a href="https://github.com/Xianhuii/system-design-primer/blob/master/README-zh-Hans.md" target="_blank">system-design-primer</a></li>
-<li><a href="https://book.mixu.net/distsys/single-page.html" target="_blank">《Distributed systems for fun and profit》</a></li>
-<li><a href="https://book.douban.com/subject/27154352/" target="_blank">《设计数据密集型应用》</a></li>
-<li><a href="https://github.com/Xianhuii/skywalking-java" target="_blank">Apache SkyWalking的Java Agent源码</a></li>
+<li><a href="https://book.douban.com/subject/25809330/">《Linux&Unix系统编程手册》</a></li>
+<li><a href="https://github.com/Xianhuii/apollo-java">Apollo配置中心的Java客户端源码</a></li>
+<li><a href="https://aosabook.org/en/v2/distsys.html">The Architecture of Open Source Applications (Volume 2)Scalable Web Architecture and Distributed Systems</a></li>
+<li><a href="https://github.com/Xianhuii/system-design-primer/blob/master/README-zh-Hans.md">system-design-primer</a></li>
+<li><a href="https://book.mixu.net/distsys/single-page.html">《Distributed systems for fun and profit》</a></li>
+<li><a href="https://book.douban.com/subject/27154352/">《设计数据密集型应用》</a></li>
+<li><a href="https://github.com/Xianhuii/skywalking-java">Apache SkyWalking的Java Agent源码</a></li>
 </details>
