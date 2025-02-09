@@ -5,9 +5,11 @@
 
 借助网络上各种资源（包括中国大学MOOC、B站、慕课网），以及一种莫名其妙的坚持，稀里糊涂地在2021年硕士毕业后成功转行。
 
-摸爬滚打好多年，
+从最开始只会按照教程死板地调用API接口，后来开始深入阅读源码，寻找各种书籍补充理论知识，我的成长是巨大的。
 
-## 技术栈
+我深刻感受到成长是可以量化的。之前在本地笔记或博客网站记录了每年学习的目标和进度，现在迁移到GitHub，以此勉励自己。
+
+## 💻技术栈
 - 编程语言：Java > Golang > JavaScript > C/C++
 - 系统底层：Linux、异步I/O模型（select/poll/epoll）
 - 数据库相关：MySQL、Redis
@@ -18,7 +20,7 @@
 - 应用框架：Spring全家桶、GoFrame、MyBatis、ShardingSphere、Vue
 - 网络编程：select/poll/epoll、Tomcat、Netty、Dubbo、gRPC
 
-## 学习记录
+## 📅学习记录
 ### 2025年
 <li><a href="https://book.douban.com/subject/25809330/">《Linux&Unix系统编程手册》</a></li>
 <li><a href="https://github.com/Xianhuii/apollo-java">Apollo配置中心的Java客户端源码</a></li>
@@ -57,7 +59,7 @@
   <li>SeaTa</li>
 </details>
 <details>
-<summary>2024年</summary>
+<summary>2023年</summary>
   <li><a href="https://www.cnblogs.com/Xianhuii/category/1971111.html">Spring Core中Spring IoC和AOP的相关官方文档和源码</a></li>
   <li><a href="https://www.cnblogs.com/Xianhuii/category/2261873.html">Spring Data Access中事务的相关官方文档和源码</a></li>
   <li><a href="https://www.cnblogs.com/Xianhuii/category/2254144.html">Spring Web MVC官方文档和相关源码</a></li>
