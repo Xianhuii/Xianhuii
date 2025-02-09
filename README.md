@@ -29,12 +29,44 @@
 <li><a href="https://github.com/Xianhuii/skywalking-java">Apache SkyWalking的Java Agent源码</a></li>
 
 ### 往年
-<summary>2025年</summary>
-<li><a href="https://book.douban.com/subject/25809330/">《Linux&Unix系统编程手册》</a></li>
-<li><a href="https://github.com/Xianhuii/apollo-java">Apollo配置中心的Java客户端源码</a></li>
-<li><a href="https://aosabook.org/en/v2/distsys.html">The Architecture of Open Source Applications (Volume 2)Scalable Web Architecture and Distributed Systems</a></li>
-<li><a href="https://github.com/Xianhuii/system-design-primer/blob/master/README-zh-Hans.md">system-design-primer</a></li>
-<li><a href="https://book.mixu.net/distsys/single-page.html">《Distributed systems for fun and profit》</a></li>
-<li><a href="https://book.douban.com/subject/27154352/">《设计数据密集型应用》</a></li>
-<li><a href="https://github.com/Xianhuii/skywalking-java">Apache SkyWalking的Java Agent源码</a></li>
+<details>
+<summary>2024年</summary>
+  <li>Spring全家桶：重新梳理Spring -> Spring Boot -> Spring Cloud核心源码。</li>
+  <li>Spring Boot内嵌Tomcat</li>
+  <li>Docker</li>
+  <li>RabbitMQ</li>
+  <li>Java NIO</li>
+  <li> Redis源码、《Redis设计与实现》</li>
+  <li>《C程序设计语言》</li>
+  <li>Netty源码</li>
+  <li>MySQL</li>
+  <li>《凤凰架构》</li>
+  <li>《Go语言从入门到进阶实战》、《Go语言高级编程》</li>
+  <li>《鸟哥的Linux私房菜-基础学习篇》</li>
+  <li>ShardingSphere</li>
+  <li>《自己动手写Java虚拟机》</li>
+  <li>Vue.js源码</li>
+  <li>Dubbo源码</li>
+  <li>MySQL源码</li>
+  <li>Xxl-Job源码</li>
+  <li>Spring全家桶源码：Spring Framework、Spring Boot、Spring Cloud Common</li>
+  <li>Sentinel</li>
+  <li>SkyWalking</li>
+  <li>Nginx</li>
+  <li>《微服务架构设计模式》</li>
+  <li>SeaTa</li>
+</details>
+<details>
+<summary>2024年</summary>
+  <li><a href="https://www.cnblogs.com/Xianhuii/category/1971111.html">Spring Core中Spring IoC和AOP的相关官方文档和源码</a></li>
+  <li><a href="https://www.cnblogs.com/Xianhuii/category/2261873.html">Spring Data Access中事务的相关官方文档和源码</a></li>
+  <li><a href="https://www.cnblogs.com/Xianhuii/category/2254144.html">Spring Web MVC官方文档和相关源码</a></li>
+  <li><a href="https://www.cnblogs.com/Xianhuii/category/2272475.html">Spring Boot核心官方文档和源码</a></li>
+  <li><a href="https://www.cnblogs.com/Xianhuii/category/2335157.html">Mybatis源码</a></li>
+  <li>Spring Cloud Commons</li>
+  <li>Netty</li>
+  <li>Shiro：官方文档（授权、鉴权、加密、缓存）</li>
+  <li>MySQL：《Understanding MySQL internals》（MySQL的基础架构）、《MySQL是怎样运行的：从根儿上理解MySQL》</li>
+  <li>Log4j2 & Slf4j：官方文档（Appender、Layout、异步）</li>
+  <li>Kafka：官方文档、Kafka权威指南（第2版）、Apache Kafka源码剖析、深入理解Kafka 核心设计与实践原理</li>
 </details>
