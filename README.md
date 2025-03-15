@@ -23,7 +23,7 @@
 - 网络编程：select/poll/epoll、Tomcat、Netty、Dubbo、gRPC
 
 ## 📅学习记录
-### 2025年
+### 2025年已完成
 <li><a href="https://book.douban.com/subject/25809330/">《Linux&Unix系统编程手册》</a></li>
 <li><a href="https://github.com/Xianhuii/apollo-java">Apollo配置中心的Java客户端源码</a></li>
 <li><a href="https://aosabook.org/en/v2/distsys.html">The Architecture of Open Source Applications (Volume 2)Scalable Web Architecture and Distributed Systems</a></li>
@@ -34,6 +34,9 @@
 <li><a href="http://barbie.uta.edu/~jli/Resources/MapReduce&Hadoop/Distributed%20Systems%20Principles%20and%20Paradigms.pdf">《Distributed Systems Principles and Paradigms (4th Edition)》</a></li>
 <li><a href="https://disco.ethz.ch/courses/podc_allstars/lecture/podc.pdf">《Principles of Distributed Computing》</a></li>
 <li><a href="https://github.com/Xianhuii/skywalking-java](https://www.redbooks.ibm.com/redbooks/pdfs/sg248357.pdf">《Microservices Best Practices for Java》</a></li>
+
+### 2025年进行中
+<li><a href="https://book.douban.com/subject/34986745/">《Kubernetes in Action, Second Edition》</a></li>
 
 ### 往年
 <details>
