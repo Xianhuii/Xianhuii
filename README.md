@@ -31,6 +31,10 @@
 <li><a href="https://book.mixu.net/distsys/single-page.html">《Distributed systems for fun and profit》</a></li>
 <li><a href="https://book.douban.com/subject/27154352/">《设计数据密集型应用》</a></li>
 <li><a href="https://github.com/Xianhuii/skywalking-java">Apache SkyWalking的Java Agent源码</a></li>
+<li><a href="http://barbie.uta.edu/~jli/Resources/MapReduce&Hadoop/Distributed%20Systems%20Principles%20and%20Paradigms.pdf">《Distributed Systems Principles and Paradigms (4th Edition)》</a></li>
+<li><a href="https://aosabook.org/en/v2/distsys.html">《The Architecture of Open Source Applications (Volume 2)Scalable Web Architecture and Distributed Systems》</a></li>
+<li><a href="https://disco.ethz.ch/courses/podc_allstars/lecture/podc.pdf">《Principles of Distributed Computing》</a></li>
+<li><a href="https://github.com/Xianhuii/skywalking-java](https://www.redbooks.ibm.com/redbooks/pdfs/sg248357.pdf">《Microservices Best Practices for Java》</a></li>
 
 ### 往年
 <details>
