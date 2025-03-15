@@ -13,7 +13,7 @@
 
 ## 💻技术栈
 - 编程语言：Java > Golang > JavaScript > C/C++
-- 系统底层：Linux、异步I/O模型（select/poll/epoll）
+- 系统底层：Linux、I/O模型（select/poll/epoll）
 - 数据库相关：MySQL、Redis
 - 消息队列：RabbitMQ、Kafka、NanoMQ
 - 任务调度：Xxl-Job
