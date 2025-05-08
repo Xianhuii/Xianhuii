@@ -34,9 +34,11 @@
 <li><a href="http://barbie.uta.edu/~jli/Resources/MapReduce&Hadoop/Distributed%20Systems%20Principles%20and%20Paradigms.pdf">《Distributed Systems Principles and Paradigms (4th Edition)》</a></li>
 <li><a href="https://disco.ethz.ch/courses/podc_allstars/lecture/podc.pdf">《Principles of Distributed Computing》</a></li>
 <li><a href="https://github.com/Xianhuii/skywalking-java](https://www.redbooks.ibm.com/redbooks/pdfs/sg248357.pdf">《Microservices Best Practices for Java》</a></li>
+<li><a href="https://book.douban.com/subject/34986745/">《Kubernetes in Action, Second Edition》</a></li>
+<li><a href="https://book.douban.com/subject/27047716/">《Effective Java》</a></li>
 
 ### 2025年进行中
-<li><a href="https://book.douban.com/subject/34986745/">《Kubernetes in Action, Second Edition》</a></li>
+<li><a href="https://book.douban.com/subject/35470134/">《Learning Domain-Driven Design》</a></li>
 
 ### 往年
 <details>
