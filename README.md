@@ -41,6 +41,7 @@
 
 ### 2025年进行中
 <li><a href="https://book.douban.com/subject/35470134/">《Learning Domain-Driven Design》</a></li>
+<li><a href="https://github.com/Xianhuii/ruoyi-vue-pro">开源项目：ruoyi-vue-pro</a></li>
 
 ### 往年
 <details>
