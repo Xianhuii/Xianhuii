@@ -37,11 +37,11 @@
 <li><a href="https://book.douban.com/subject/34986745/">《Kubernetes in Action, Second Edition》</a></li>
 <li><a href="https://book.douban.com/subject/27047716/">《Effective Java》</a></li>
 <li><a href="https://github.com/1024-lab/smart-admin">开源项目：SmartAdmin</a></li>
-
+<li><a href="https://book.douban.com/subject/35470134/">《Learning Domain-Driven Design》</a></li>
 
 ### 2025年进行中
-<li><a href="https://book.douban.com/subject/35470134/">《Learning Domain-Driven Design》</a></li>
 <li><a href="https://github.com/Xianhuii/ruoyi-vue-pro">开源项目：ruoyi-vue-pro</a></li>
+<li><a href="https://www.hello-algo.com/chapter_hello_algo/">《Hello算法》</a></li>
 
 ### 往年
 <details>
