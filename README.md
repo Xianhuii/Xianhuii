@@ -42,6 +42,7 @@
 ### 2025年进行中
 <li><a href="https://github.com/Xianhuii/ruoyi-vue-pro">开源项目：ruoyi-vue-pro</a></li>
 <li><a href="https://www.hello-algo.com/chapter_hello_algo/">《Hello算法》</a></li>
+<li><a href="https://ddd-fans.github.io/ddd-guideline/main.html">《领域驱动设计指南》</a></li>
 
 ### 往年
 <details>
