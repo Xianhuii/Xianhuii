@@ -41,6 +41,7 @@
 <li><a href="https://ddd-fans.github.io/ddd-guideline/main.html">《领域驱动设计指南》</a></li>
 <li>《凤凰架构》</li>
 <li><a href="https://docs.spring.io/spring-data/redis/reference/index.html">Spring Data Redis官方文档&源码</a></li>
+<li><a href="https://book.douban.com/subject/30173863/">《Java设计模式》</a></li>
 
 ### 2025年进行中
 <li><a href="https://github.com/Xianhuii/ruoyi-vue-pro">开源项目：ruoyi-vue-pro</a></li>
