@@ -48,6 +48,7 @@
 ### 2025年进行中
 <li><a href="https://www.hello-algo.com/chapter_hello_algo/">《Hello算法》</a></li>
 <li><a href=""https://book.douban.com/subject/6809987/"">《The Garbage Collection Handbook The Art of Automatic Memory Management》</a></li>
+<li><a href="https://github.com/Xianhuii/yudao-cloud">开源项目：yudao-cloud</a></li>
 
 ### 往年
 <details>
