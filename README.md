@@ -44,6 +44,9 @@
 <li><a href="https://book.douban.com/subject/30173863/">《Java设计模式》</a></li>
 <li><a href="https://github.com/micrometer-metrics/micrometer">指标监控：micrometer</a></li>
 <li><a href="https://github.com/Xianhuii/ruoyi-vue-pro">开源项目：ruoyi-vue-pro</a></li>
+<li><a href="https://github.com/Xianhuii/reactor-core">Project Reactor</a></li>
+<li>spring webflux</li>
+<li>spring websocket</li>
 
 ### 2025年进行中
 <li><a href="https://www.hello-algo.com/chapter_hello_algo/">《Hello算法》</a></li>
