@@ -47,6 +47,9 @@
 <li><a href="https://github.com/Xianhuii/reactor-core">Project Reactor</a></li>
 <li>spring webflux</li>
 <li>spring websocket</li>
+<li>spring cloud gateway源码通读</li>
+<li>spring actuator源码通读</li>
+<li>spring security源码通读</li>
 
 ### 2025年进行中
 <li><a href="https://www.hello-algo.com/chapter_hello_algo/">《Hello算法》</a></li>
