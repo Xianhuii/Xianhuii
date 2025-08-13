@@ -54,13 +54,13 @@
 <li>JDK-IO模块源码通读</li>
 <li><a href=""https://book.douban.com/subject/6809987/"">《The Garbage Collection Handbook The Art of Automatic Memory Management》</a></li>
 <li><a href="https://leetcode.cn/studyplan/selected-coding-interview/">Krahets 笔面试精选 88 题</a></li>
+<li><a href="https://docs.oracle.com/en/java/javase/24/gctuning/hotspot-virtual-machine-garbage-collection-tuning-guide.pdf">《HotSpot Virtual Machine Garbage Collection
+Tuning Guide》</a></li>
 
 ### 2025年进行中
 <li><a href="https://leetcode.cn/leetbook/read/illustration-of-algorithm/55187i/">《图解算法数据结构》</a></li>
 <li><a href="https://github.com/Xianhuii/yudao-cloud">开源项目：yudao-cloud</a></li>
 <li>openJDK-gc源码通读</li>
-<li><a href="https://docs.oracle.com/en/java/javase/24/gctuning/hotspot-virtual-machine-garbage-collection-tuning-guide.pdf">《HotSpot Virtual Machine Garbage Collection
-Tuning Guide》</a></li>
 
 ### 往年
 <details>
