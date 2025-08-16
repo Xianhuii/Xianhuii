@@ -62,7 +62,7 @@ Tuning Guide》</a></li>
 <li><a href="https://leetcode.cn/leetbook/read/illustration-of-algorithm/55187i/">《图解算法数据结构》</a></li>
 <li><a href="https://github.com/Xianhuii/yudao-cloud">开源项目：yudao-cloud</a></li>
 <li>openJDK-gc源码通读</li>
-li><a href="https://docs.oracle.com/en/java/javase/24/core/java-core-libraries-developer-guide.pdf">《HJava Platform, Standard Edition Core Libraries》</a></li>
+<li><a href="https://docs.oracle.com/en/java/javase/24/core/java-core-libraries-developer-guide.pdf">《Java Platform, Standard Edition Core Libraries》</a></li>
 
 ### 往年
 <details>
