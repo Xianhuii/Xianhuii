@@ -52,7 +52,7 @@
 <li>spring security文档&源码通读</li>
 <li><a href="https://www.hello-algo.com/chapter_hello_algo/">《Hello算法》</a></li>
 <li>JDK-IO模块源码通读</li>
-<li><a href=""https://book.douban.com/subject/6809987/"">《The Garbage Collection Handbook The Art of Automatic Memory Management》</a></li>
+<li><a href="https://book.douban.com/subject/6809987/">《The Garbage Collection Handbook The Art of Automatic Memory Management》</a></li>
 <li><a href="https://leetcode.cn/studyplan/selected-coding-interview/">Krahets 笔面试精选 88 题</a></li>
 <li><a href="https://docs.oracle.com/en/java/javase/24/gctuning/hotspot-virtual-machine-garbage-collection-tuning-guide.pdf">《HotSpot Virtual Machine Garbage Collection
 Tuning Guide》</a></li>
